@@ -35,9 +35,9 @@ Publications
   **Y. J. Guan**, C. P. Bandutunga, J. Dong, T. T. Lam, R. Fleddermann, M. B. Gray, and J. H. Chow. <br/>
   *Manuscript Submitted to Optics Express, 2021*
  
-* [Learning Log-Determinant Divergences for Positive Definite Matrices](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9405430)<br/>
-  Anoop Cherian, Panagiotis Stanitsas, **Jue Wang**, Mehrtash T Harandi, Vassilios Morellas, Nikos Papanikolopoulos   
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+* [Quantum Noise Limited Trace Gas Cavity Enhanced Polarization Spectroscopy](https://www.osapublishing.org/abstract.cfm?uri=EE-2018-EW3A.8)<br/>
+  **Y. J. Guan**, J. Dong, C. P. Bandutunga, R. Fleddermann, T. T. Lam, M. B. Gray, and J. H. Chow.  
+  *Light, Energy and the Environment 2018 (E2, FTS, HISE, SOLAR, SSL), OSA Technical Digest (Optical Society of America, 2018), paper EW3A.8.*
 
 * [VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs](https://arxiv.org/abs/2101.12059)<br/>
   Xudong Lin, Gedas Bertasius, **Jue Wang**, Shih-Fu Chang, Devi Parikh, Lorenzo Torresani      
