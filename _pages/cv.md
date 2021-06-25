@@ -32,7 +32,7 @@ Work Experience
 Publications
 ======  
 * Polarization Impedance Matching Cavity Enhanced Laser Absorption Spectroscopy <br/>
-  **Y. J. Guan**, C. P. Bandutunga, J. Dong, T. T. Lam, R. Fleddermann, M. B. Gray, and J. H. Chow.
+  **Y. J. Guan**, C. P. Bandutunga, J. Dong, T. T. Lam, R. Fleddermann, M. B. Gray, and J. H. Chow. <br/>
   *Manuscript Submitted to Optics Express, 2021*
  
 * [Learning Log-Determinant Divergences for Positive Definite Matrices](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9405430)<br/>
