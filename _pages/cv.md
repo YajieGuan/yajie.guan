@@ -43,7 +43,7 @@ Publications
   J. Dong, T. T. Lam, R. Fleddermann, **Y. J. Guan**, C. P. Bandutunga, D. E. McClelland, M. B. Gray, and J. H. Chow      
   *Light, Energy and the Environment 2015, OSA Technical Digest (online) (Optical Society of America, 2015), paper ETh2A.2.*
 
-* Cavity Polarization Mode Impedance Matching Spectroscopy <br/>     
+* Cavity Polarization Mode Impedance Matching Spectroscopy<br/>
   **Y. J. Guan**, J. Dong, T. T. Lam, R. Fleddermann, C. P. Bandutunga, D. E. McClelland, M. B. Gray, and J. H. Chow.    
   *Oral Presentation at The Australian and New Zealand Conference on Optics and Photonics (ANZCOP) 2017*
 
