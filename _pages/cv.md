@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Information and Electronics, Beijing Institute of Technology, 2010-2012
-* B.S. in College of Engineering and Computer Science, Australian National University, 2012-2015
-* Ph.D in College of Engineering and Computer Science, Australian National University, 2016-2020
-(expected)
+* B.S. in School of Optics and Photonics, Beijing Institute of Technology, 2010-2012
+  * Major: Optical Information Science and Technology
+  * GPA: 4.0/4.0
+* B.S. in College of Engineering and Computer Science, Australian National University, 2012-2014
+* Ph.D in Research School of Physics, Australian National University, 2015-2021
 
 Work Experience
 ======
