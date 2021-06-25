@@ -15,15 +15,19 @@ Education
   * Major: Optical Information Science and Technology
   * GPA: 4.0/4.0
 * B.S. in College of Engineering and Computer Science, Australian National University, 2012-2014
+  * Major: Electronic and Communications
+  * Minor: Physics
+  * GPA: 6.7/7.0
 * Ph.D in Research School of Physics, Australian National University, 2015-2021
+  * Thesis title: Novel cavity - enhanced techniques for metrology
 
 Work Experience
 ======
-* September - November 2019: Research Intern
-  * Mitsubishi Electric Research Lab
+* 2019 - Present: Test and QA Engineer
+  * [Liquid Instruments](https://www.liquidinstruments.com/)
 
-* February - November 2018: Research Intern
-  * Mitsubishi Electric Research Lab
+* November 2012-  February 2013: Trainee Engineer
+  * [Beijing SWT Science and Technology Co](http://www.swt-oc.com/english.php)
 
 Publications
 ======  
