@@ -39,17 +39,17 @@ Publications
   **Y. J. Guan**, J. Dong, C. P. Bandutunga, R. Fleddermann, T. T. Lam, M. B. Gray, and J. H. Chow.  
   *Light, Energy and the Environment 2018 (E2, FTS, HISE, SOLAR, SSL), OSA Technical Digest (Optical Society of America, 2018), paper EW3A.8.*
 
-* [VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs](https://arxiv.org/abs/2101.12059)<br/>
-  Xudong Lin, Gedas Bertasius, **Jue Wang**, Shih-Fu Chang, Devi Parikh, Lorenzo Torresani      
-  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2021*
+* [Cavity Enhanced Polarization Impedance Matching Spectroscopy](https://www.osapublishing.org/abstract.cfm?uri=EE-2015-ETh2A.2)<br/>
+  J. Dong, T. T. Lam, R. Fleddermann, **Y. J. Guan**, C. P. Bandutunga, D. E. McClelland, M. B. Gray, and J. H. Chow      
+  *Light, Energy and the Environment 2015, OSA Technical Digest (online) (Optical Society of America, 2015), paper ETh2A.2.*
 
-* [End-to-end audio visual scene-aware dialog using multimodal attention-based video features](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8682583)     
-  Chiori Hori, Huda Alamri, **Jue Wang**, Gordon Wichern, Takaaki Hori, Anoop Cherian, Tim K Marks, Vincent Cartillier, Raphael Gontijo Lopes, Abhishek Das, Irfan Essa, Dhruv Batra, Devi Parikh       
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2019*
+* Double Pass Cavity Enhanced Absorption Measurement with Scattering Minimisation 
+  **Y. J. Guan**, C. P. Bandutunga, J. Dong, R. Fleddermann, M. B. Gray, T. T. Lam, and J. H. Chow.       
+  *Oral Presentation at The Australian and New Zealand Conference on Optics and Photonics (ANZCOP) 2015*
 
-* [Audio Visual Scene-Aware Dialog](http://openaccess.thecvf.com/content_CVPR_2019/papers/Alamri_Audio_Visual_Scene-Aware_Dialog_CVPR_2019_paper.pdf)      
-  Huda Alamri, Vincent Cartillier, Abhishek Das, **Jue Wang**, Anoop Cherian, Irfan Essa, Dhruv Batra, Tim K Marks, Chiori Hori, Peter Anderson, Stefan Lee, Devi Parikh      
-  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019*
+* Cavity Polarization Mode Impedance Matching Spectroscopy      
+  **Y. J. Guan**, J. Dong, T. T. Lam, R. Fleddermann, C. P. Bandutunga, D. E. McClelland, M. B. Gray, and J. H. Chow.    
+  *Oral Presentation at The Australian and New Zealand Conference on Optics and Photonics (ANZCOP) 2017*
 
      
  
