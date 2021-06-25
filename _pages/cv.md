@@ -54,5 +54,5 @@ Publications
  
 
 
-[Download my CV](https://github.com/YajieGuan/yajieguan.github.io/files/Yajie_CV.pdf)
+[Download my CV](https://https://yajieguan.github.io/files/Yajie_CV.pdf)
 
