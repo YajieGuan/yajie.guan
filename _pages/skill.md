@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV & Publications"
-permalink: /cv/
+title: "Projects & Skills"
+permalink: /skill/
 author_profile: true
 
 ---
