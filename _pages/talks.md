@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
+![alt text](http://yajieguan.github.io/images/yajieguan.jpg)
