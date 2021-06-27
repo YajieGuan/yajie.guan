@@ -36,13 +36,10 @@ Technical Skills
 </p>
 
 <p align="right">
-  <img width="150" height="200" src="http://yajieguan.github.io/images/Servo2.heic">
+  <img width="150" height="200" src="http://yajieguan.github.io/images/Servo2.jpg">
 </p>
 
 
 * PID control system design and analysis  
 
-
-
-[Download my CV](https://yajieguan.github.io/files/Yajie_CV.pdf)
 
