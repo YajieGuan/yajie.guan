@@ -31,12 +31,12 @@ Technical Skills
 
 * Analog circuit design, simulation and prototyping
 
-<p align="right">
+<p align="left">
   <img width="150" height="200" src="http://yajieguan.github.io/images/Servo1.jpg">
 </p>
 
-<p align="left">
-  <img width="150" height="200" src="http://yajieguan.github.io/images/Servo1.heic">
+<p align="right">
+  <img width="150" height="200" src="http://yajieguan.github.io/images/Servo2.heic">
 </p>
 
 
