@@ -23,4 +23,4 @@ Invited University Speeches
 
 
 {% include base_path %}
-<img src="http://yajieguan.github.io/images/BITposter.PNG" width="100" height="100">
+<img src="http://yajieguan.github.io/images/BITposter.PNG" width="300" height="450">
