@@ -21,6 +21,9 @@ Invited University Speeches
 * Molecular Trace Gas Detection: How Sensitive Can You Go?    
   *Invited Speech at Beijing Institute of Technology, School of Optics and Photonics, 2018*
 
+<p align="center">
+  <img width="300" height="450" src="http://yajieguan.github.io/images/BITposter.PNG">
+</p>
 
 {% include base_path %}
 <img src="http://yajieguan.github.io/images/BITposter.PNG" width="300" height="450">
