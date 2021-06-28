@@ -14,8 +14,8 @@ Research Projects
    * Acoustic sensing using optical interferometry
    * Cavity Enhanced Laser Absorption Spectroscopy  
 <p align="center">
-  <img width="400" height="350" src="http://yajieguan.github.io/images/cavity1.JPG" >
-  <img width="200" height="350" src="http://yajieguan.github.io/images/cavity2.jpg">
+  <img width="385" height="330" src="http://yajieguan.github.io/images/cavity1.JPG" >
+  <img width="165" height="330" src="http://yajieguan.github.io/images/cavity2.jpg">
 </p>
   
    
