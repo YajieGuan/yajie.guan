@@ -26,7 +26,7 @@ Research Projects
    
 <p align="center">
   <img width="250" height="300" src="http://yajieguan.github.io/images/Servo1.jpg">
-  <img width="450" height="300" src="http://yajieguan.github.io/images/Servo2.jpg">
+  <img width="350" height="300" src="http://yajieguan.github.io/images/Servo2.jpg">
 </p>
 
 * Optical fibre array sensing
