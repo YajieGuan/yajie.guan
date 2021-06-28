@@ -22,7 +22,7 @@ Research Projects
    * Analog feedback control servos design, simulation and prototyping
    
 <p align="center">
-  <img width="250" height="300" src="http://yajieguan.github.io/images/Servo1.jpg">
+  <img width="250" height="250" src="http://yajieguan.github.io/images/Servo1.jpg">
   <img width="300" height="250" src="http://yajieguan.github.io/images/Servo2.jpg">
 </p>
 
