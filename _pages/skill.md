@@ -11,14 +11,11 @@ author_profile: true
 Research Projects
 ======
 * Free-space optic sensing
-   * Cavity Enhanced Laser Absorption Spectroscopy
-   
+   * Cavity Enhanced Laser Absorption Spectroscopy  
 <p align="center">
   <img width="350" height="300" src="http://yajieguan.github.io/images/cavity1.JPG" >
   <img width="150" height="300" src="http://yajieguan.github.io/images/cavity2.jpg">
 </p>
-
-
    * Acoustic sensing using optical interferometry
    
 * Laser stabilization
@@ -26,7 +23,7 @@ Research Projects
    
 <p align="center">
   <img width="250" height="300" src="http://yajieguan.github.io/images/Servo1.jpg">
-  <img width="350" height="300" src="http://yajieguan.github.io/images/Servo2.jpg">
+  <img width="300" height="250" src="http://yajieguan.github.io/images/Servo2.jpg">
 </p>
 
 * Optical fibre array sensing
