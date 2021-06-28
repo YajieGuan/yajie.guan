@@ -14,8 +14,8 @@ Research Projects
    * Cavity Enhanced Laser Absorption Spectroscopy
    
 <p align="center">
-  <img width="350" height="400" src="http://yajieguan.github.io/images/cavity1.JPG" >
-  <img width="350" height="400" src="http://yajieguan.github.io/images/cavity2.jpg">
+  <img width="350" height="300" src="http://yajieguan.github.io/images/cavity1.JPG" >
+  <img width="150" height="300" src="http://yajieguan.github.io/images/cavity2.jpg">
 </p>
 
 
@@ -24,9 +24,9 @@ Research Projects
 * Laser stabilization
    * Analog feedback control servos design, simulation and prototyping
    
-<p align="left">
-  <img width="150" height="200" src="http://yajieguan.github.io/images/Servo1.jpg">
-  <img width="150" height="200" src="http://yajieguan.github.io/images/Servo2.jpg">
+<p align="center">
+  <img width="250" height="300" src="http://yajieguan.github.io/images/Servo1.jpg">
+  <img width="450" height="300" src="http://yajieguan.github.io/images/Servo2.jpg">
 </p>
 
 * Optical fibre array sensing
