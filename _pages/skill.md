@@ -11,12 +11,13 @@ author_profile: true
 Research Projects
 ======
 * Free-space optic sensing
+   * Acoustic sensing using optical interferometry
    * Cavity Enhanced Laser Absorption Spectroscopy  
 <p align="center">
   <img width="350" height="300" src="http://yajieguan.github.io/images/cavity1.JPG" >
   <img width="150" height="300" src="http://yajieguan.github.io/images/cavity2.jpg">
 </p>
-   * Acoustic sensing using optical interferometry
+  
    
 * Laser stabilization
    * Analog feedback control servos design, simulation and prototyping
