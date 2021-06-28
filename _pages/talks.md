@@ -22,5 +22,5 @@ Invited University Speeches
   *Invited Speech at Beijing Institute of Technology, School of Optics and Photonics, 2018*
 
 <p align="center">
-  <img width="300" height="450" src="http://yajieguan.github.io/images/BITposter.PNG">
+  <img width="500" height="750" src="http://yajieguan.github.io/images/BITposter.PNG"> (https://yajieguan.github.io/files/BITposter.PNG)
 </p>
