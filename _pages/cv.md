@@ -25,8 +25,17 @@ Work Experience
 * March 2019 - Present: Test and QA Engineer
   * [Liquid Instruments](https://www.liquidinstruments.com/)
 
-* November 2012-  February 2013: Trainee Engineer
+* November 2012 - February 2013: Trainee Engineer
   * [Beijing SWT Science and Technology Co](http://www.swt-oc.com/english.php)
+
+Teaching Experience
+======
+* 2016 - 2019: Australia National University
+  * [Fibre Optic Communications Systems](https://programsandcourses.anu.edu.au/course/PHYS3060)
+  * [Photonic Sensing Systems](https://programsandcourses.anu.edu.au/2019/course/phys6502)
+
+* 2012 - 2012: Beihang University
+  * [Lab assistant]
 
 Publications
 ======  
