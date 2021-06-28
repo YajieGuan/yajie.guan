@@ -13,9 +13,9 @@ Research Projects
 * Free-space optic sensing
    * Cavity Enhanced Laser Absorption Spectroscopy
    
-<p align="left">
-  <img width="150" height="200" src="http://yajieguan.github.io/images/cavity.JPG" >
-  <img width="150" height="200" src="http://yajieguan.github.io/images/Servo1.jpg">
+<p align="center">
+  <img width="350" height="400" src="http://yajieguan.github.io/images/cavity1.JPG" >
+  <img width="350" height="400" src="http://yajieguan.github.io/images/cavity2.jpg">
 </p>
 
 
@@ -25,8 +25,8 @@ Research Projects
    * Analog feedback control servos design, simulation and prototyping
    
 <p align="left">
-  <img width="150" height="200" src="http://yajieguan.github.io/images/cavity.JPG">
   <img width="150" height="200" src="http://yajieguan.github.io/images/Servo1.jpg">
+  <img width="150" height="200" src="http://yajieguan.github.io/images/Servo2.jpg">
 </p>
 
 * Optical fibre array sensing
