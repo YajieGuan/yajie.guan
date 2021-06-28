@@ -14,10 +14,7 @@ Research Projects
    * Cavity Enhanced Laser Absorption Spectroscopy
    
 <p align="left">
-  <img width="150" height="200" src="http://yajieguan.github.io/images/cavity.JPG" img width="150" height="200" src="http://yajieguan.github.io/images/Servo1.jpg">
-</p>
-
-<p align="right">
+  <img width="150" height="200" src="http://yajieguan.github.io/images/cavity.JPG" >
   <img width="150" height="200" src="http://yajieguan.github.io/images/Servo1.jpg">
 </p>
 
@@ -29,9 +26,6 @@ Research Projects
    
 <p align="left">
   <img width="150" height="200" src="http://yajieguan.github.io/images/cavity.JPG">
-</p>
-
-<p align="right">
   <img width="150" height="200" src="http://yajieguan.github.io/images/Servo1.jpg">
 </p>
 
