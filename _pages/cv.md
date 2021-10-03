@@ -35,13 +35,13 @@ Teaching Experience
   * [Photonic Sensing Systems](https://programsandcourses.anu.edu.au/2019/course/phys6502)
 
 * 2012 - 2012: Beihang University
-  * [Lab assistant]
+  * Lab assistant
 
 Publications
 ======  
-* Polarization Impedance Matching Cavity Enhanced Laser Absorption Spectroscopy <br/>
+* [Polarization Impedance Measurement Cavity Enhanced Laser Absorption Spectroscopy](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-21-33836&id=460101)<br/>
   **Y. J. Guan**, C. P. Bandutunga, J. Dong, T. T. Lam, R. Fleddermann, M. B. Gray, and J. H. Chow. <br/>
-  *Manuscript Submitted to Optics Express, 2021*
+  *Optics Express, 2021*
  
 * [Quantum Noise Limited Trace Gas Cavity Enhanced Polarization Spectroscopy](https://www.osapublishing.org/abstract.cfm?uri=EE-2018-EW3A.8)<br/>
   **Y. J. Guan**, J. Dong, C. P. Bandutunga, R. Fleddermann, T. T. Lam, M. B. Gray, and J. H. Chow.  
