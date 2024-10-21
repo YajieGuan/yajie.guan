@@ -26,12 +26,12 @@ Research Projects
   <img width="225" height="300" src="http://yajieguan.github.io/images/Servo1.jpg">
   <img width="300" height="300" src="http://yajieguan.github.io/images/Servo2.jpg">
 </p>
-ss
+
 * Optical fibre array sensing
    * Lead fiber noise reduction using time-delay interferometry
 
 <p align="center">
-  <img width="170" height="350" src="http://yajieguan.github.io/images/fig_leadSetup.eps">
+  <img width="170" height="350" src="http://yajieguan.github.io/images/fig_leadSetup.jpg">
 </p> 
 
   
