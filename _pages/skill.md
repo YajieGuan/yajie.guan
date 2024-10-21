@@ -26,16 +26,18 @@ Research Projects
   <img width="225" height="300" src="http://yajieguan.github.io/images/Servo1.jpg">
   <img width="300" height="300" src="http://yajieguan.github.io/images/Servo2.jpg">
 </p>
-
+ss
 * Optical fibre array sensing
    * Lead fiber noise reduction using time-delay interferometry
-  
 
+<p align="center">
+  <img width="170" height="350" src="http://yajieguan.github.io/images/fig_leadSetup.eps">
+</p> 
 
   
-Technical Skills
+Optical Skills
 ======
-* Optical Cavity design, simulation and alignment
+* Optical cavity design, simulation and alignment
 
 * Laser stabilisation and frequency noise suppression
 
@@ -48,3 +50,16 @@ Technical Skills
 * PID control system design and analysis  
 
 
+Electronic Skills
+======
+* Test design with embedded processor (FPGA, SoC, DDR, I2C/SPI, QSPI, eMMC, Ethernet MAC, SFP, WiFi, USB, SATA, JESD etc.); 
+
+* Analog system design and testing (ADC, DAC, trigger, etc.)
+
+* Electronic circuit design and simulation; 
+
+* Testing station fixtures design and prototype; 
+
+* Electronic devices handling (oscilloscope, spectrum analyser, probes, etc.);
+
+* Class 1 system and SiPM calibration

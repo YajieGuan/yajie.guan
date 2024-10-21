@@ -8,6 +8,15 @@ redirect_from:
 ---
 Conference Talks
 ======  
+* A double-pass cavity-enhanced spectrometer with a polarization analyzed readouty<br/>
+  **Y. J. Guan**, C. P. Bandutunga, M. B. Gray, and J. H. Chow.    
+  *In Conference on Lasers and Electro-Optics (2021a), page AM4P.5. Optica Publishing Group*
+
+* Using polarization to measure absorption in cavity enhanced spectroscopyy<br/>
+  **Y. J. Guan**, C. P. Bandutunga, M. B. Gray, and J. H. Chow.    
+  *In OSA Optical Sensors and Sensing Congress 2021b (AIS, FTS, HISE, SENSORS, ES), page
+ETh1A.3. Optica Publishing Group*
+
 * Cavity Polarization Mode Impedance Matching Spectroscopy<br/>
   **Y. J. Guan**, J. Dong, T. T. Lam, R. Fleddermann, C. P. Bandutunga, D. E. McClelland, M. B. Gray, and J. H. Chow.    
   *Oral Presentation at The Australian and New Zealand Conference on Optics and Photonics (ANZCOP) 2017*

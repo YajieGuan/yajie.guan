@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-AU"
+locale                   : "en-USA"
 title                    : "Yajie Guan"
 title_separator          : "-"
 name                     : &name "Yajie Guan"
-description              : &PhD Student of Australian Univerisity"
+description              : &Staff Test Engineer"
 url                      : https://yajieguan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yajie Guan"
   avatar           : "yajieguan.jpg"
-  bio              : "PhD student of Australian National University"
-  location         : "Canberra, ACT"
+  bio              : "Staff Test Engineer"
+  location         : "Redmond, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=Lt945BwAAAAJ&hl=zh-CN"
-  email            : "Yajie.Guan@anu.edu.au"
+  email            : "guanguan.cathy@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

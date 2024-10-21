@@ -22,7 +22,10 @@ Education
 
 Work Experience
 ======
-* March 2019 - Present: Test and QA Engineer
+* May 2023 - Present: Staff.Test Engineer
+  * [Micro Vision](https://microvision.com/)
+
+* March 2019 - May 2023: Test and QA Engineer
   * [Liquid Instruments](https://www.liquidinstruments.com/)
 
 * November 2012 - February 2013: Trainee Engineer
@@ -42,7 +45,7 @@ Publications
 * [Polarization Impedance Measurement Cavity Enhanced Laser Absorption Spectroscopy](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-21-33836&id=460101)<br/>
   **Y. J. Guan**, C. P. Bandutunga, J. Dong, T. T. Lam, R. Fleddermann, M. B. Gray, and J. H. Chow. <br/>
   *Optics Express, 2021*
- 
+   
 * [Quantum Noise Limited Trace Gas Cavity Enhanced Polarization Spectroscopy](https://www.osapublishing.org/abstract.cfm?uri=EE-2018-EW3A.8)<br/>
   **Y. J. Guan**, J. Dong, C. P. Bandutunga, R. Fleddermann, T. T. Lam, M. B. Gray, and J. H. Chow.  
   *Light, Energy and the Environment 2018*
