@@ -31,7 +31,7 @@ Research Projects
    * Lead fiber noise reduction using time-delay interferometry
 
 <p align="center">
-  <img width="170" height="350" src="http://yajieguan.github.io/images/fig_leadSetup.jpg">
+  <img width="680" height="1400" src="http://yajieguan.github.io/images/fig_leadSetup.jpg">
 </p> 
 
   
