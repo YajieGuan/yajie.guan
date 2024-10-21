@@ -22,14 +22,11 @@ Education
 
 Work Experience
 ======
-* May 2023 - Present: Staff.Test Engineer
+* May 2023 - Present: Staff Test Engineer
   * [Micro Vision](https://microvision.com/)
 
 * March 2019 - May 2023: Test and QA Engineer
   * [Liquid Instruments](https://www.liquidinstruments.com/)
-
-* November 2012 - February 2013: Trainee Engineer
-  * [Beijing SWT Science and Technology Co](http://www.swt-oc.com/english.php)
 
 Teaching Experience
 ======
